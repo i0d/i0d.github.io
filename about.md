@@ -6,4 +6,5 @@ permalink: /about/
 
 # About
 
-About pages.
+Simple and occasional writes.
+No guarantees for anything.

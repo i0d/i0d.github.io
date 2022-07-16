@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Home
+# Something strange wrotes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+무언가 기기 묘묘한 이야기들. 언제까지 얼마나 계속 할 수 있을지 모를...
