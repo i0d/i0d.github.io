@@ -2,7 +2,7 @@
 layout: post
 title:  "umamed 01 - initial letter"
 date:   2022-07-16 22:32:45 +0900
-categories: unnamed
+categories:
 ---
 
 # 첫 이야기
