@@ -2,6 +2,8 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
+title: "A Strange Pond"
+
 header_pages:
  - index.md
  - about.md
