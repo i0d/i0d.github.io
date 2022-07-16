@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "umamed 01 - initial letter"
-date:   2022-07-16 22:32:45 +0900
+date:   2022-07-16 22:32:45 +0100
 categories:
 ---
 
