@@ -1,4 +1,5 @@
 ---
+label: "[home]"
 title: "Something strange letters"
 layout: home
 permalink: /
